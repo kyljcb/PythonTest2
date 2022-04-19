@@ -3,4 +3,4 @@ firstName = input("First Name: ")
 lastName = input("Last Name: ")
 
 # Print
-print(firstName, lastName)
+print("Hi! My name is", firstName, lastName)
